@@ -1,10 +1,6 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
-Developed by : Aaron Rajesh .R
-
-Reg No : 212223100001
-
 # AIM:
 To execute Windows basic commands and batch scripting
 
@@ -87,11 +83,6 @@ copy %userprofile%\Documents\*.docx %userprofile%\Desktop\DocBackup
 del %userprofile%\Documents\*.docx
 echo Backup and deletion completed successfully!
 ```
-
-
-
-
-
 
 
 ## OUTPUT
